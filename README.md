@@ -10,7 +10,10 @@ We created three projects that use virtuality puppets to help students develop s
 This work was presented at the SIGGRAPH 2026 _Educator's Forum_ as an Engaging Education Techniques and Assignments (EETA).
 
 ```
-Aline Normoyle and Bronwen Densmore. 2026. Developing spatial reasoning skills using virtuality puppets. In Special Interest Group on Computer Graphics and Interactive Techniques Conference Educator’s Forum (SIGGRAPH Educator’s Forum ’26), July 19–23, 2026, Los Angeles, CA, USA. ACM, New York, NY, USA, 3 pages.  https://doi.org/10.1145/3799829.3812518
+Aline Normoyle and Bronwen Densmore. 2026. Developing spatial reasoning skills using virtuality puppets. 
+In Special Interest Group on Computer Graphics and Interactive Techniques Conference Educator’s Forum (SIGGRAPH Educator’s Forum ’26), 
+July 19–23, 2026, Los Angeles, CA, USA. ACM, New York, NY, USA, 3 pages.  
+https://doi.org/10.1145/3799829.3812518
 ```
 
 *Acknowledgments* We wish to thank our students who participated in our first Virtuality Theater seminar – Neha Thumu, Gavin Sears, Yue Chen, Paprika Chen, Joon Luther, and Kylie McCombs– and to Stephen H. Lane whose animation course inspired this activity.
