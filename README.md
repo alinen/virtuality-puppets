@@ -18,10 +18,6 @@ July 19–23, 2026, Los Angeles, CA, USA. ACM, New York, NY, USA, 3 pages.
 https://doi.org/10.1145/3799829.3812518
 ```
 
-Acknowledgments 
-
-We wish to thank our students who participated in our first Virtuality Theater seminar – Neha Thumu, Gavin Sears, Yue Chen, Paprika Chen, Joon Luther, and Kylie McCombs– and to Stephen H. Lane whose animation course inspired this activity.
-
 ## Getting Started
 
 These projects were built and tested with Unity 6 and a Vicon Motion Capture System (8 cameras). The Vicon streaming API (included) streams the tracked puppets into Unity in real-time. 
@@ -55,3 +51,8 @@ The scene `UnityProject/Assets/Scenes/BoxTemplate.unity` implements the above se
 ## License
 
 This work is released under the creative commons license. If you find this work helpful or you expand upon it, let us know. 
+
+
+## Acknowledgments 
+
+We wish to thank our students who participated in our first Virtuality Theater seminar – Neha Thumu, Gavin Sears, Yue Chen, Paprika Chen, Joon Luther, and Kylie McCombs– and to Stephen H. Lane whose animation course inspired this activity.
