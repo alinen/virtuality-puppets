@@ -9,7 +9,7 @@ A virtuality puppet links a physical puppet with a virtual counterpart. This rep
 
 We created three projects that use virtuality puppets to help students develop skills for working with frames of reference and animating characters.  In the first project, students setup a mapping between our motion capture space and the virtual environment. In the second and third, students track the motion of physical puppets, such as a tentacle or Muppet, and retarget the motion to different virtual characters. Each project reinforces lecture material about transformations, coordinate systems,
 
-This work was presented at the SIGGRAPH 2026 _Educator's Forum_ as an Engaging Education Techniques and Assignments (EETA).
+This work was presented at the [SIGGRAPH 2026 _Educator's Forum_ as an Engaging Education Techniques and Assignments (EETA)](https://dl.acm.org/doi/10.1145/3799829.3812518).
 
 ```
 Aline Normoyle and Bronwen Densmore. 2026. Developing spatial reasoning skills using virtuality puppets. 
